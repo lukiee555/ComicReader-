@@ -1,0 +1,7 @@
+Our DB has 6 tables:
+ Banners: For links of all banners of app
+ Manga: For manga list
+ Chapter: For chapter list of manga 
+ Links: For all images of chapter
+ Category: Category of Manga 
+ CategoryManga: a forigen table to make manga can be have multiple Category
