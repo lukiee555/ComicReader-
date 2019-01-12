@@ -48,5 +48,8 @@ dependencies {
     //Spot Dialogue
     implementation 'com.github.d-max:spots-dialog:1.1@aar'
 
+    //EasyFlipView
+    implementation 'com.wajahatkarim3.EasyFlipView:EasyFlipView:2.1.2'
+
 
 }
